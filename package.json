@@ -1,0 +1,16 @@
+{
+  "name": "cook-book-back-end",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "connect-mongo": "^3.1.0",
+    "mongoose": "^5.7.7",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
+  }
+}
